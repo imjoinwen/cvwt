@@ -883,7 +883,7 @@ function createbbbSub(userID_Path, hostName) {
 }
 
 const cn_hostnames = [
-	'weibo.com',                // Weibo - A popular social media platform
+	'soso.com',                // Weibo - A popular social media platform
 	'www.baidu.com',            // Baidu - The largest search engine in China
 	'www.bing.com',
 
